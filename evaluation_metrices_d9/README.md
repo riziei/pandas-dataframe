@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Classification Project (Scikit-Learn)
+# Machine Learning Classification Project (Scikit-Learn)
 
 This repository demonstrates a complete **Machine Learning classification workflow** using Python and `scikit-learn`.
 
@@ -11,7 +11,7 @@ It includes:
 
 ---
 
-# 📌 Dataset Used
+#  Dataset Used
 
 ### Breast Cancer Wisconsin Dataset (from sklearn)
 
@@ -83,7 +83,7 @@ Where:
 
 ---
 
-# ⚠️ Overfitting
+# Overfitting
 
 ## What is Overfitting?
 When a model performs very well on training data but poorly on test data.
